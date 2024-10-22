@@ -1,0 +1,15 @@
+.categories {
+    margin: 40px 0;
+    text-align: center;
+  }
+  
+  .categories-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .category-card {
+    width: 150px;
+    text-align: center;
+  }
+  

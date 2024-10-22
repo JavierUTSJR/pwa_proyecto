@@ -1,0 +1,15 @@
+.featured-products {
+    margin: 40px 0;
+    text-align: center;
+  }
+  
+  .products-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .product-card {
+    width: 200px;
+    text-align: center;
+  }
+  
